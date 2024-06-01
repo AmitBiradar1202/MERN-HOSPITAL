@@ -15,7 +15,7 @@ Ensure you have the following installed on your machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AmitBiradar1202/MERN-HSOPITAL.git
+    git@github.com:AmitBiradar1202/MERN-HOSPITAL.git
  
     ```
 
