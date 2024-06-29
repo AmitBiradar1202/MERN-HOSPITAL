@@ -15,7 +15,7 @@ Ensure you have the following installed on your machine:
 
 1. Clone the repository:
     ```bash
-    git@github.com:AmitBiradar1202/MERN-HOSPITAL.git
+    git clone https://github.com/AmitBiradar1202/MERN-HOSPITAL.git
  
     ```
 
@@ -29,7 +29,7 @@ Ensure you have the following installed on your machine:
 
     - Frontend:
       ```bash
-      cd ../frontend
+      cd ./frontend
       npm install
       ```
 
